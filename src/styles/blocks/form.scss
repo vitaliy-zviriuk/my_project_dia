@@ -54,6 +54,9 @@ input:-webkit-autofill:active {
 
     }
      
+    &--textarea {
+      resize: none;
+    }
   }
   
 }

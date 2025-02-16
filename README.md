@@ -1,5 +1,5 @@
-  - [DEMO LINK](https://zvir91.github.io/my_project_dia/);
-  - [GitHub](https://github.com/zvir91/my_project_dia);
+  - [DEMO LINK](https://vitaliy-zviriuk.github.io/my_project_dia/);
+  - [GitHub](https://github.com/vitaliy-zviriuk/my_project_dia);
   - [MockUp](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
 
 
